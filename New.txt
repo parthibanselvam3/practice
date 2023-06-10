@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello
 this file is got edited
+=======
+hello world
+>>>>>>> 067017aae1d6b97d9cc26ef6fd6655ba83591482
